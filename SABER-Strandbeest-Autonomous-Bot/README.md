@@ -56,8 +56,8 @@ To recreate the project:
     ```
     git clone https://github.com/manojkumarks8//Projects/SABER-Strandbeest-Autonomous-Bot.git
     ```
-3. Make connections according to the circuit diagram available in [CircuitDocumentation](./CircuitDocumentation.pdf) file
-4. Open the `saberlogic.c` file in the Arduino IDE and upload it to your Arduino Uno.
+3. Make connections according to the circuit diagram available in [circuit_image](./circuit_image.png) annd refer to [CircuitDocumentation](./CircuitDocumentation.pdf) file
+4. Open the [saberlogic.c](./saberlogic.c) file in the Arduino IDE and upload it to your Arduino Uno.
 
 ## Usage
 Once the code is uploaded to the Arduino, power on the bot and place it in an environment for testing. The bot will autonomously start navigating and avoiding obstacles.
